@@ -602,7 +602,7 @@ b, strong {
   color: var(--light-medium-gray);
 }
 .text-light-gray, .btn-link.text-light-gray, a.text-light-gray-hover:hover {
-  color: var(--light-gray);
+  color: #100f0d;
 }
 .text-very-light-gray, .btn-link.text-very-light-gray, a.text-very-light-gray-hover:hover {
   color: var(--very-light-gray);
