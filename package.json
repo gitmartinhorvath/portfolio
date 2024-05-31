@@ -1,7 +1,7 @@
 {
-  "name": "crafto",
+  "name": "MH Portfolio",
   "version": "1.0.0",
-  "description": "The Multipurpose HTML5 Template",
+  "description": "Martin Horvath Portfolio",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
